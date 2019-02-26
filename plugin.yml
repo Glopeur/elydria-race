@@ -1,0 +1,9 @@
+name: ElydriaRace
+version: "0.0.1"
+main: fr.elydria.race.Main
+authors: [Glopeur]
+api-version: 1.13
+commands:
+  elydriarace:
+    description: Main command
+    aliases: [erace]
